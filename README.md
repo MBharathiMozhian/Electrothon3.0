@@ -7,6 +7,9 @@ a) Class 0 represents 'Covid'
 b) Class 1 represents 'Normal'
 c) Class 2 represents 'Pneumonia'
 
+Link for demo video:
+https://drive.google.com/file/d/1IJkVGh8vnaCxEUoNKM-l7Ydh_ArqaCdA/view?usp=sharing
+
 External references:
 1) https://github.com/keisen/tf-keras-vis/blob/master/examples/attentions.ipynb
 2) https://www.tensorflow.org/tutorials/generative/deepdream
